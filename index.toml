@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "icon.png"
-hash = "bbc4d177ae621ba915fb6e80e790d22a80acd18137c5284f243ed9c3ecf282c5"
+hash = "53fdcdef6ffdbe95c664af81192d3f5c95f239bcb5147e55aa76a08cacfa30c0"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -45,16 +45,6 @@ hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons-advanced-technologies.pw.toml"
-hash = "20eb89a98a2c8ead2dba950f2d727dc3862447b11c657c5a4e095fef55bcab69"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "c64e1f8850019986e1974adc68edfe7bbcedd3bd7ac2008df07ca32a41f4a574"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "878bea7ee908c8eb9eda3035ed5a8ed53fa3d26328756777945aaa5527765c54"
 metafile = true
@@ -80,33 +70,8 @@ hash = "0f701351ad64acf5928df3566727a072ab570a181fb848aa941720fda13d8771"
 metafile = true
 
 [[files]]
-file = "mods/create-factory.pw.toml"
-hash = "f36203d5c8ef8c6dd11299464bb0ae91757108d353d1288728e2f759770b6b26"
-metafile = true
-
-[[files]]
-file = "mods/create-high-pressure.pw.toml"
-hash = "e259afa9aa04240c68a0beeb78ed139d6b4491a5dd3a113db4208ddd55cda1d1"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "0a0533fddd34d04fd6551f5c352081b711662d12f2f2051fe7232a53172edf0e"
-metafile = true
-
-[[files]]
-file = "mods/create-liquid-fuel.pw.toml"
-hash = "e4bb7f122e7e3ba2c419528acaec03c7c6bf615f6da9daa29050cc5f6a6cf861"
-metafile = true
-
-[[files]]
-file = "mods/create-metalwork.pw.toml"
-hash = "b01040c5cef91d40b7bc98429dd07d61d788d638024311a22671b8dd1f8faf6e"
-metafile = true
-
-[[files]]
-file = "mods/create-molten-metals.pw.toml"
-hash = "2b44a03572595c680d870341f84fe7800e9bf664195a88a69c724c6c83184d60"
 metafile = true
 
 [[files]]
@@ -135,18 +100,8 @@ hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
 metafile = true
 
 [[files]]
-file = "mods/create-sifting.pw.toml"
-hash = "cc6fc949e8be879801537a682d4b3870461d66543806f0364e4f30791178e3df"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
-metafile = true
-
-[[files]]
-file = "mods/create-tank-defenses.pw.toml"
-hash = "387b75010a7dbcb20e21720d6daa8736d6785534d81cb9ce5c7a28ec04e2636c"
 metafile = true
 
 [[files]]
@@ -266,12 +221,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "558683c9172a3904a3b02e2473d7e14a94959430158e6daa180bb0b44ddfe03e"
+hash = "48915b5a29737b24454b69b8c587513c8dcfa2149b0a0c15243c31d5a9cb8945"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6b8508af720296ed19ae5a3cc0e8a6c7b180132d7e980111f48bf9d86d39342e"
+hash = "dea191c2807b7e8770b1c16e799ea92f4b0d3eb1561c4ff12d3de7be52687bff"
 metafile = true
 
 [[files]]
@@ -316,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
+hash = "15d78c9077742dce0b1363b03fe9a9d173da5c5632df3ec771597d51e0760eff"
 metafile = true
 
 [[files]]
@@ -352,16 +307,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "13585b49c3377716494f7a65bf5031cfe66a5059bdba0eafe6ad4158df6cb7de"
-metafile = true
-
-[[files]]
-file = "mods/rpl.pw.toml"
-hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
-metafile = true
-
-[[files]]
-file = "mods/security-craft.pw.toml"
-hash = "e0d0d32c780841642264e3cdb5b3b9fb23a21a97f55f0cd30c250638b4ab8c43"
 metafile = true
 
 [[files]]
