@@ -1,0 +1,5 @@
+*.disabled
+README.md
+LICENSE
+.github
+.devcontainer
